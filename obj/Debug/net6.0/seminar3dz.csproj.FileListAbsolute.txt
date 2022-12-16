@@ -1,0 +1,15 @@
+/Users/arinafomina/Desktop/DZseminar3/seminar3dz/bin/Debug/net6.0/seminar3dz
+/Users/arinafomina/Desktop/DZseminar3/seminar3dz/bin/Debug/net6.0/seminar3dz.deps.json
+/Users/arinafomina/Desktop/DZseminar3/seminar3dz/bin/Debug/net6.0/seminar3dz.runtimeconfig.json
+/Users/arinafomina/Desktop/DZseminar3/seminar3dz/bin/Debug/net6.0/seminar3dz.dll
+/Users/arinafomina/Desktop/DZseminar3/seminar3dz/bin/Debug/net6.0/seminar3dz.pdb
+/Users/arinafomina/Desktop/DZseminar3/seminar3dz/obj/Debug/net6.0/seminar3dz.csproj.AssemblyReference.cache
+/Users/arinafomina/Desktop/DZseminar3/seminar3dz/obj/Debug/net6.0/seminar3dz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arinafomina/Desktop/DZseminar3/seminar3dz/obj/Debug/net6.0/seminar3dz.AssemblyInfoInputs.cache
+/Users/arinafomina/Desktop/DZseminar3/seminar3dz/obj/Debug/net6.0/seminar3dz.AssemblyInfo.cs
+/Users/arinafomina/Desktop/DZseminar3/seminar3dz/obj/Debug/net6.0/seminar3dz.csproj.CoreCompileInputs.cache
+/Users/arinafomina/Desktop/DZseminar3/seminar3dz/obj/Debug/net6.0/seminar3dz.dll
+/Users/arinafomina/Desktop/DZseminar3/seminar3dz/obj/Debug/net6.0/refint/seminar3dz.dll
+/Users/arinafomina/Desktop/DZseminar3/seminar3dz/obj/Debug/net6.0/seminar3dz.pdb
+/Users/arinafomina/Desktop/DZseminar3/seminar3dz/obj/Debug/net6.0/seminar3dz.genruntimeconfig.cache
+/Users/arinafomina/Desktop/DZseminar3/seminar3dz/obj/Debug/net6.0/ref/seminar3dz.dll
